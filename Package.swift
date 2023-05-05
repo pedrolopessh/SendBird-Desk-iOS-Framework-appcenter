@@ -5,7 +5,7 @@ import PackageDescription
 
 let package = Package(
     name: "SendBirdDesk",
-    platforms: [.iOS(.v9)],
+    platforms: [.iOS(.v11)],
     products: [
         .library(
             name: "SendBirdDesk",
